@@ -8,16 +8,20 @@
 // import explainer from './components/project 4/explainer.vue'
 // import formValidator from './components/project 5/formValidator.vue'
 // import passwordGenerator from './components/project 6/passwordGenerator.vue'
-import progressBar from './components/project7/progressBar.vue'
+// import progressBar from './components/project7/progressBar.vue'
+// import dadJoke from './components/project 8/dadJoke.vue'
+import gitUserProfile from './components/project 9/githubUserInfo.vue'
 </script>
 
 <template>
   
   <!-- <toDo/> -->
   <!-- <randomQuoteGenerator/> -->
-  <!-- <calculator/> -->
+  <!-- <calculator/>  -->
   <!-- <explainer/> -->
   <!-- <formValidator/> -->
   <!-- <passwordGenerator/> -->
-  <progressBar/>
+  <!-- <progressBar/> -->
+   <!-- <dadJoke/> -->
+    <gitUserProfile/>
 </template>
