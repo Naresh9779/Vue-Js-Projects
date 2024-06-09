@@ -82,10 +82,10 @@ section{
     justify-content:center;
     align-items:center;
     flex-direction:column;
-    border:2px solid rgb(10, 10, 10);
+    /* border:2px solid rgb(10, 10, 10); */
     padding: 2rem;
     margin-top: 1rem;
-    box-shadow: 2px 2px 3px black;
+    /* box-shadow: 2px 2px 3px black; */
   
  
   }
