@@ -48,7 +48,7 @@ A fun application that fetches and displays random dad jokes to entertain users.
 
 ### 9. GitHub User Info 👤
 An application that retrieves and displays GitHub user information based on the entered username.
-- **Demo**: [GitHub User Info](https://your-deployment-link.com/github-user-info)
+- **Demo**: [GitHub User Info](https://git-hub-user-info.netlify.app/)
 
 
 ## Getting Started 🛠️
@@ -59,4 +59,4 @@ To run any of these projects locally, clone the repository and navigate to the r
 git clone https://github.com/yourusername/vuejs-projects.git
 cd vuejs-projects/project-name
 npm install
-npm run serve
+npm run dev
