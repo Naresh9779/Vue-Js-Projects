@@ -50,6 +50,12 @@ A fun application that fetches and displays random dad jokes to entertain users.
 An application that retrieves and displays GitHub user information based on the entered username.
 - **Demo**: [GitHub User Info](https://git-hub-user-info.netlify.app/)
 - **Code**: [GitHub User Info Source](https://github.com/yourusername/vuejs-projects/projects-vue/src/components)
+### 9. Wikipedia Clone 🔎
+An application that retrieves and displays GitHub user information based on the entered username.
+- **Demo**: [GitHub User Info](https://wiki-clone-new.netlify.app/)
+- **Code**: [GitHub User Info Source](https://github.com/yourusername/vuejs-projects/projects-vue/src/components)
+
+- 
 
 ## Getting Started 🛠️
 
