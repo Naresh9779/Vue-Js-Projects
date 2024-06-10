@@ -10,7 +10,8 @@
 // import passwordGenerator from './components/project 6/passwordGenerator.vue'
 // import progressBar from './components/project7/progressBar.vue'
 // import dadJoke from './components/project 8/dadJoke.vue'
-import gitUserProfile from './components/project 9/githubUserInfo.vue'
+// import gitUserProfile from './components/project 9/githubUserInfo.vue'
+ import wikiClone from './components/project 10/wikiClone.vue'
 </script>
 
 <template>
@@ -23,5 +24,6 @@ import gitUserProfile from './components/project 9/githubUserInfo.vue'
   <!-- <passwordGenerator/> -->
   <!-- <progressBar/> -->
    <!-- <dadJoke/> -->
-    <gitUserProfile/>
+    <!-- <gitUserProfile/> -->
+     <wikiClone/>
 </template>
